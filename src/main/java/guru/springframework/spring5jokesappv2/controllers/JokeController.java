@@ -1,6 +1,6 @@
-package my.springframework.spring5jokesappv2.controllers;
+package guru.springframework.spring5jokesappv2.controllers;
 
-import my.springframework.spring5jokesappv2.services.JokeService;
+import guru.springframework.spring5jokesappv2.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
